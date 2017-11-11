@@ -1,0 +1,10 @@
+.service_image_class {
+width: 100%;
+-webkit-transition: width 1.1s ease-in-out;
+-moz-transition: width 1.1s ease-in-out;
+-o-transition: width 1.1s ease-in-out;
+transition: width 1.1s ease-in-out;
+}
+.service_image_class:hover {
+width: 95% !important;
+}
